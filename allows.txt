@@ -532,6 +532,7 @@ docker.io/zhayujie/chatgpt-on-wechat
 docker.io/zilliz/*
 docker.io/zlijingtao/neurobfuscator
 docker.io/zlmediakit/zlmediakit
+docker.io/deluan/navidrome
 gcr.io/**
 ghcr.io/actions/**
 ghcr.io/advplyr/audiobookshelf
